@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+/*----index--------------------*/
 body{
     background-color: #e6ffe6ff;
 }
@@ -41,7 +42,6 @@ h2{
     font-size: 1.625rem;
 }
 
-/*------------------------------*/
 .grid{
     display: grid;
     gap: 50px;
@@ -69,3 +69,5 @@ h2{
     margin-top: 40px;
     object-fit: cover;
 }
+
+/*------------------------------*/
