@@ -71,52 +71,31 @@ h2{
 }
 
 /*----syoukai--------------------*/
-
-.flex{
-    display: flex;
-    padding: 10px;
-}
-
-.flex div{
-    width: 50%;
-    margin: 10px;
-    padding: 10px;
-}
-
-.sbun{
-    background-image: url(../img/hukidasi.png);
-}
-
-/* .swrapper{
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: 0 4;
-}
-
-.sgrid{
-    display: grid;
-    gap: 20px;
-    grid-template-columns: 1fr 2fr;
-    margin-top: 30px;
-    margin-bottom: 50px;
+table{
+    padding: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
 }
 
 .container{
-    width:100px;
-    height: 100px;
     position: relative;
-}
+    width:300px;
+  }
 
-.container img{
-    width:100%;
-}
+  .hukidasi{
+    width: 100%;
+  }
 
-.sbun{
+  .container p{
     position: absolute;
-    top:0;
-    left:0;
-    font-size:30px;
-    color: #000000;
-    padding:0;
+    padding: 10px;
     margin:0;
-} */
+  }
+  .container .sbun{
+    top: 20px;
+    left: 30px;
+    width: 700px;
+    text-align: center;
+    color: #000;
+  }
