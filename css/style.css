@@ -128,8 +128,39 @@ h2{
 
 /*----haiq--------------------*/
 .htable{
-    padding-top: 100px;
-    padding-left: 10%;
-    padding-right: 10%;
-    background-color: #fff;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 100px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:rgba(255, 255, 255, 60%);
+}
+
+.hstory{
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    background-color:rgba(255, 255, 255, 60%);
+
+}
+
+.haikyu2{
+    margin-left: 30px;
+}
+
+.smokuji{
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 100px;
+    padding: 30px;
+    background-color:rgba(255, 255, 255, 60%);
+    border: 1px dashed #333333;
+    border-radius: 5px;
+}
+
+.sli{
+    margin-left: 30px;
 }
