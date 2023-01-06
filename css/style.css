@@ -76,7 +76,7 @@ h2{
 }
 
 /*----syoukai--------------------*/
-table{
+.stable{
     padding: 30px;
     margin-left: 10%;
     margin-right: 10%;
@@ -125,3 +125,11 @@ table{
     padding-bottom: 50px;
     text-align: center;
   }
+
+/*----haiq--------------------*/
+.htable{
+    padding-top: 100px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #fff;
+}
