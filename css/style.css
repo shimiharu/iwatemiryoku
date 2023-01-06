@@ -5,13 +5,18 @@ body{
     background-color: #e6ffe6ff;
 }
 
-.main-nav {
+header{
     background-color: #aaffdcff;
+    height: 90px;
+    width: auto;
+}
+
+.main-nav {
     display: flex;
     justify-content: right;
     font-size: 1.25rem;
     text-transform: uppercase;
-    padding-top: 20px;
+    padding-top: 30px;
     list-style: none;
 }
 
@@ -78,6 +83,13 @@ table{
     margin-top: 50px;
 }
 
+.stitle{
+    font-size: 1.75rem;
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
 .container{
     position: relative;
     width:300px;
@@ -98,4 +110,18 @@ table{
     width: 700px;
     text-align: center;
     color: #000;
+  }
+
+  .syoukai{
+    padding: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+    background-color: rgba(255, 255, 255, 60%);
+  }
+
+  .return{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-align: center;
   }
