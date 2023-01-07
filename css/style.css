@@ -137,6 +137,18 @@ h2{
     background-color:rgba(255, 255, 255, 60%);
 }
 
+.hqtdleft{
+    height: 200px;
+    width: 500px;
+    padding-right: 20px;
+}
+
+.hqtdright{
+    height: 200px;
+    width: 500px;
+    padding-left: 20px;
+}
+
 .hstory{
     margin-left: 15%;
     margin-right: 15%;
@@ -151,16 +163,68 @@ h2{
     margin-left: 30px;
 }
 
-.smokuji{
+.hmokuji{
     margin-left: 35%;
     margin-right: 35%;
-    margin-top: 100px;
+    margin-top: 150px;
+    margin-bottom: 200px;
     padding: 30px;
     background-color:rgba(255, 255, 255, 60%);
     border: 1px dashed #333333;
     border-radius: 5px;
 }
 
-.sli{
+.hli{
     margin-left: 30px;
+}
+
+.hq{
+    margin-bottom: 150px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.hqline{
+    border: solid 5px #0097a7;
+}
+
+.htable2{
+    margin-top: 20px;
+}
+
+.hqmap{
+    margin-top: 300px;
+    text-align: center;
+    
+}
+
+.hqlink{
+    margin-top: 70px;
+    margin-left: 20%;
+    margin-right: 15%;
+    margin-bottom: 100px;
+}
+
+.hqbotan{
+    display: block;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    padding: 15px 0;
+    margin-left: 85%;
+    background: #569f3c;
+    color: #FFF;
+    text-decoration: none;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.hqbotan:hover{
+    background: #225f0d;
+}
+
+.hqreturn{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
 }
