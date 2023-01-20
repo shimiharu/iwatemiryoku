@@ -237,3 +237,25 @@ h2{
 }
 
 /*---men--------------------------------------*/
+.menmain{
+    margin-bottom: 150px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.menimg{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
+
+.gaiyou ,.oisisa{
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.misesyoukai{
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
