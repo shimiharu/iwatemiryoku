@@ -16,16 +16,22 @@ header{
     justify-content: right;
     font-size: 1.25rem;
     text-transform: uppercase;
-    padding-top: 30px;
     list-style: none;
 }
 
+.icon{
+    height: 90px;
+    width: 90px;
+}
+
 .title{
-    padding-right: 45%;
+    width: 70%;
+    /* padding-left: 2%; */
 }
 
 .li {
-    padding-right: 10%;
+    padding-top: 30px;
+    width: 15%;
 }
 
 .main-nav a {
@@ -39,6 +45,7 @@ header{
 
 section{
     padding-left: 5%;
+    padding-right: 5%;
     margin-bottom: 200px;
 }
 
