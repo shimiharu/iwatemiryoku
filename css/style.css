@@ -84,17 +84,11 @@ h2{
 
 /*----syoukai--------------------*/
 .stable{
+    width: 80%;
     padding: 30px;
-    margin-left: 10%;
+    margin-left: 15%;
     margin-right: 10%;
     margin-top: 50px;
-}
-
-.stitle{
-    font-size: 1.75rem;
-    text-transform: uppercase;
-    padding-top: 20px;
-    padding-left: 50px;
 }
 
 .container{
@@ -102,8 +96,18 @@ h2{
     width:300px;
   }
 
+  .sbun{
+    text-align: center;
+    margin-left: 50px;
+  }
+
   .hukidasi{
-    width: 100%;
+    background-image: url(../img/hukidasi.png);
+    background-repeat:  no-repeat;
+    background-position:center center;
+    /* background-size:contain; */
+    width:758px;
+    height:200px;
   }
 
   .container p{
@@ -258,4 +262,63 @@ h2{
 .misesyoukai{
     margin-top: 20px;
     margin-bottom: 100px;
+}
+
+/*---tekki--------------------------------------*/
+.tekkiline{
+    border: solid 5px #0097a7;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.tekkisubline{
+    border: solid 2px #0097a7;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.ttop{
+    margin-top: 100px;
+}
+
+.tbottom{
+    margin-bottom: 80px;
+}
+
+.tekki{
+    margin-bottom: 150px;
+}
+
+.ttable{
+    margin-top: 5px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.tekkitdleft{
+    height: 200px;
+    width: 500px;
+    padding-right: 20px;
+}
+
+.triyu{
+    margin-bottom: 100px;
+}
+
+span{
+    color: #0097a7;
+}
+
+/*---kankou--------------------------------------*/
+.karumai{
+    margin-top: 100px;
+}
+
+/*---ganraiza--------------------------------------*/
+.TG{
+    margin-bottom: 100px;
+}
+
+.kyaradeza{
+    margin-top: 150px;
 }
